@@ -22,11 +22,16 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ## GitHub Status
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieldeSouzaOliveira&show_icons=true&theme=github_dark)
+ 
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrieldeSouzaOliveira&layout=compact&show_icons=true&theme=github_dark)
  
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieldeSouzaOliveira&repo=Gabriel-de-Souza-Oliveira&show_icons=true&theme=github_dark)](https://github.com/GabrieldeSouzaOliveira/Gabriel-de-Souza-Oliveira)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieldeSouzaOliveira&repo=AprendendoPY&show_icons=true&theme=github_dark)](https://github.com/GabrieldeSouzaOliveira/AprendendoPY)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieldeSouzaOliveira&repo=GabrieldeSouzaOliveira&show_icons=true&theme=github_dark)](https://github.com/GabrieldeSouzaOliveira/GabrieldeSouzaOliveira)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieldeSouzaOliveira&repo=dio-lab-open-source&show_icons=true&theme=github_dark)](https://github.com/GabrieldeSouzaOliveira/dio-lab-open-source)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GabrieldeSouzaOliveira&icons=true&theme=github_dark)](https://git.io/streak-stats)
