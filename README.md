@@ -1,13 +1,10 @@
 # Gabriel de Souza Oliveira
 ### Hi there 👋
 ✌😁
+
 🔭 I’m currently working on Front-End
 
 🌱 I’m currently learning Angular
-
-💬 Ask me about COD
-
-📫 How to reach me: gabrieldesouzaoliveira001@gmail.com
 
 ## 🌎 Conecte-se Comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-s-oliveira-72a9681a7/) 
