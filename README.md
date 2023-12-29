@@ -2,8 +2,11 @@
 ### Hi there 👋
 ✌😁
 🔭 I’m currently working on Front-End
+
 🌱 I’m currently learning Angular
+
 💬 Ask me about COD
+
 📫 How to reach me: gabrieldesouzaoliveira001@gmail.com
 
 ## 🌎 Conecte-se Comigo 
